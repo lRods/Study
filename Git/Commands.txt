@@ -29,3 +29,14 @@ git reset --mixed HASH      -> Mata o commit e deixa as alteracoes como modifica
 git reset --hard HASH       -> Mata totalmente o commit
  -- o hash do reset deve ser de um commit anterior ao que voce quer deletar, pois voltara o repositorio para ele --
 
+-- REPOSITORIO REMOTO --
+Utilizar o SSH
+sudo apt-get install openssh-server     -> instalar SSH
+ssh-keygen -t rsa -C "email@nogit.com"  -> Criar uma chave
+scp arquivo USER@IP:/home/USER          -> Enviar aquivo para outro PC na mesma rede
+ssh -T git@github.com                   -> Conectar com GitHub
+
+git remote add origin git@github.com:USER/REPOSITORIO.git    -> Liga os repositorios
+git remote                   -> O nome do repositorio dado quando ligaram
+git remote -v                -> + informacoes
+git push -u origin mastar    -> Manda os arquivos salvar esse comando (-u) - pra onde vai - de onde vem 
