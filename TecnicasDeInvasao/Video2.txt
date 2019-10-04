@@ -1,0 +1,11 @@
+--- Video 02 ---
+
+ - Vulnerabilidade  ->  Um vetor, porta de entrada para um atacante
+ - Ameaca  ->  Agente, acao que se aproveita de uma vulnerabilidade
+ - Ataque  ->  A acao de uma ameaca sobre uma vulnerabilidade
+ 	
+ Operadores de pesquisa Google:
+ - Site -> Pesquisa dentro de um site
+ - filetype -> tipo de arquivo
+ - intext -> filtra o conteudo do texto de um site
+ - intitle -> filtra pelo titulo da pagina

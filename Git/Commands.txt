@@ -1,0 +1,31 @@
+
+-- CONFIGURACAO INICIAL --
+git config --global user.name "username"
+git config --global user.email "user@email.com"
+git config --global core.editor vim
+git config --list
+
+-- CRIAR REPOSITORIO OFF --
+git init
+
+-- UTILIZANDO --
+git status                  -> Status no repositorio
+git add arquivo             -> Add arquivo para ser commitado
+git commit -m "mensagem"    -> fazer commit com mensagem (-m)
+git commit -am "mensagem"   -> adicionar todos os arquivos modificados (-a) e fazer commit com mensagem 
+git log                     -> Informacoes dos commits
+git log --decorate          -> + informacoes dos commits
+git log --autor="username"  -> Commits de uma pessoa especifica
+git log --shortlog          -> Quantidade de commits e nomes + informacoes
+git shortlog -sn            -> Quantidade de commits e nomes
+git log --graph             -> Mostra com grafico os branchs
+git show HashDoCommit       -> Informacoes de alteracao commit ja feito
+git diff                    -> Mostra as alteracoes ainda nao commitadas 
+git diff --name-only        -> Mostra apenas o nome dos arquivos modificados
+git checkout arquivo        -> Desfaz as alteracoes q ainda nao foram add
+git reset HEAD arquivo      -> Tirar o arquivo do staged, tirar depois de add
+git reset --soft HASH       -> Mata o commit e deixa as alteracoes dele ja add para serem commitadas
+git reset --mixed HASH      -> Mata o commit e deixa as alteracoes como modificado e nao add
+git reset --hard HASH       -> Mata totalmente o commit
+ -- o hash do reset deve ser de um commit anterior ao que voce quer deletar, pois voltara o repositorio para ele --
+

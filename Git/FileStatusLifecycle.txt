@@ -1,0 +1,3 @@
+-- FILE STATUS LIFECYCLE --
+untracked -> unmodified -> modified -> staged
+fanzendo o commit volta pro unmodified
