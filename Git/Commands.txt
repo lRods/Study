@@ -5,8 +5,10 @@ git config --global user.email "user@email.com"
 git config --global core.editor vim
 git config --list
 
+
 -- CRIAR REPOSITORIO OFF --
 git init
+
 
 -- UTILIZANDO --
 git status                  -> Status no repositorio
@@ -29,6 +31,7 @@ git reset --mixed HASH      -> Mata o commit e deixa as alteracoes como modifica
 git reset --hard HASH       -> Mata totalmente o commit
  -- o hash do reset deve ser de um commit anterior ao que voce quer deletar, pois voltara o repositorio para ele --
 
+
 -- REPOSITORIO REMOTO --
 Utilizar o SSH
 sudo apt-get install openssh-server     -> instalar SSH
@@ -44,4 +47,14 @@ git push -u origin mastar    -> Manda os arquivos salvar esse comando (-u) - pra
 git push origin master       -> Manda minhas alteracoes pro remoto
 git clone Link nome          -> Clona todo um repositorio 
 git clone git@github.com:lRods/Study.git Study-Clone
+
+
+-- BRANCHS --
+git checkout -b nomeBranch   -> Cria e entra em um ovo branch
+git branch                   -> Mostra os branchs existentes com um asterisco no atual
+git checkout nomeBranch      -> Muda para outro branch
+git branch -D nomeBranch     -> Deleta um branch
+
+
+-- MERGE --
 
