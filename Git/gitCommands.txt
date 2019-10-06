@@ -30,6 +30,7 @@ git reset --soft HASH       -> Mata o commit e deixa as alteracoes dele ja add p
 git reset --mixed HASH      -> Mata o commit e deixa as alteracoes como modificado e nao add
 git reset --hard HASH       -> Mata totalmente o commit
  -- o hash do reset deve ser de um commit anterior ao que voce quer deletar, pois voltara o repositorio para ele --
+git revert HASH             -> Reverte as modificacoes deste commit mas nao deleta o commit revertido, criando um novo commit com as alteracoes revertidas 
 
 
 -- REPOSITORIO REMOTO --
@@ -54,7 +55,40 @@ git checkout -b nomeBranch   -> Cria e entra em um ovo branch
 git branch                   -> Mostra os branchs existentes com um asterisco no atual
 git checkout nomeBranch      -> Muda para outro branch
 git branch -D nomeBranch     -> Deleta um branch
+git push :branch             -> Para deletar tambem no repositorio remoto
 
 
--- MERGE --
+-- MERGE & REBASE --
+Merge  -> Cria um novo commit pra juntar  
+Rebase -> Adiciona ao historico linear
+git merge branchPraJuntar    -> Faz um merge deste branch com o atual
+git rebase branchPraJuntar   -> Faz um rebase deste branch com o atual
+
+
+-- GITIGNORE --
+Crie um arquivo ".gitignore" para especificar arquivos que nao devem subir para o repositorio
+Existem arquivos ja prontos de padroes de projeto que podemos copiar
+*.json    -> Ignora todos arquivos de uma extencao especifica
+db.xls    -> Ignora um arquivo especifico
+
+
+-- GIT STASH --
+Guarda as alteracoes que ainda nao foram commitadas, removendo elas para outras alteracoes, permitindo que voce possa recupera-las depois
+git stash         -> Guarda as modificacoes 
+git stash applay  -> Aplica as modificacoes guardadas
+git stash list    -> lista os stash guardados
+git stash clear   -> limpa a lista de stash guardados
+
+
+-- ALIAS --
+Atalhos para comandos
+git config --global alias.s status  -> Cria o atalho s para o comando status
+
+
+-- TAGS --
+Tags para marcar um ponto especifico do projeto, disponibilizando download direto desta tag
+git tag -a 1.0.1 -m "Mensagem"   -> Cria a tag com versao e mensagem
+git tag                          -> Mostra as tags geradas, pela versao de cada uma
+git tag -d 1.0.1                 -> apaga a tag 1.0.1
+git push :1.0.1                  -> para apagar tambem no repositorio remoto
 
