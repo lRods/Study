@@ -1,0 +1,4 @@
+-- PASTAS --
+bin  -> Arquivos executaveis padroes (principais comandos)
+
+
