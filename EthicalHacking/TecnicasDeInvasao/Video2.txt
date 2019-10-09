@@ -1,0 +1,26 @@
+--- Video 02 ---
+
+ - Vulnerabilidade  ->  Um vetor, porta de entrada para um atacante
+ - Ameaca           ->  Agente, acao que se aproveita de uma vulnerabilidade
+ - Ataque           ->  A acao de uma ameaca sobre uma vulnerabilidade
+ 	
+ Google Hack
+ Operadores de pesquisa Google:
+ - Site     -> Pesquisa dentro de um site
+ - filetype -> tipo de arquivo
+ - intext   -> filtra o conteudo do texto de um site
+ - intitle  -> filtra pelo titulo da pagina
+ - inurl    -> filtrar pela url 
+
+ Ex - site:com.br filetype:txt intext:senhas
+
+
+1 ETAPA -> Conhecer o alvo, coletar o maximo de informacao
+2 ETAPA -> Analisar as informacoes
+3 ETAPA -> explorar
+Encontrar Servicos -> Versoes -> Exploits
+
+Zero-day -> Exploit ainda nao documentado
+
+
+

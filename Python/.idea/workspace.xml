@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="047b3ccd-9a68-4cb4-b198-2f6ffb05ccd1" name="Default Changelist" comment="" />
+    <list default="true" id="047b3ccd-9a68-4cb4-b198-2f6ffb05ccd1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Jogo_do_NIM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10/ex01-Baskara.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10/ex02 - Maximo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10/ex03 - Vogais.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10/ex04 - MaximoCom3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10/ex05 - NumerosPrimos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10/ex06 - MaiorPrimo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Lista_17-09/E01 - Baskara.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Lista_17-09/E02 - Triplo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Lista_17-09/E03 - Numeros Positivos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Lista_17-09/E04 - Pessoas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Lista_17-09/E07 - Tabuada.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faculdade/Testes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Faculdade/Exercicios/E01 - Baskara.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Faculdade/Exercicios/E02 - Triplo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Faculdade/Exercicios/E03 - Numeros Positivos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Faculdade/Exercicios/E04 - Pessoas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Faculdade/Exercicios/E07 - Tabuada.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Faculdade/Prova/EX00.jpeg" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +37,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1QwwnPvut9XnRJhcewMJ3yLSoCX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -37,8 +71,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.EX01">
-    <configuration name="E03 - Numeros Positivos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ex06 - MaiorPrimo">
+    <configuration name="ex02 - Maximo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/E03 - Numeros Positivos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10/ex02 - Maximo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="E04 - Pessoas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex03 - Vogais" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/E04 - Pessoas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10/ex03 - Vogais.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EX01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex04 - MaximoCom3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Faculdade/Prova" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Faculdade/Prova/EX01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10/ex04 - MaximoCom3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EX02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex05 - NumerosPrimos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Faculdade/Prova" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Faculdade/Prova/EX02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10/ex05 - NumerosPrimos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EX03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex06 - MaiorPrimo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Faculdade/Prova" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Faculdade/Prova/EX03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10/ex06 - MaiorPrimo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.EX01" />
-        <item itemvalue="Python.EX02" />
-        <item itemvalue="Python.EX03" />
-        <item itemvalue="Python.E04 - Pessoas" />
-        <item itemvalue="Python.E03 - Numeros Positivos" />
+        <item itemvalue="Python.ex06 - MaiorPrimo" />
+        <item itemvalue="Python.ex05 - NumerosPrimos" />
+        <item itemvalue="Python.ex04 - MaximoCom3" />
+        <item itemvalue="Python.ex03 - Vogais" />
+        <item itemvalue="Python.ex02 - Maximo" />
       </list>
     </recent_temporary>
   </component>
@@ -165,5 +199,16 @@
       <updated>1568695132383</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
