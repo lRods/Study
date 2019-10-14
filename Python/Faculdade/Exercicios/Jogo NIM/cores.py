@@ -1,6 +1,5 @@
 """
-    Jogo do NIN
-    Rodrigo Maia - N3825H-8
+    Alterando cores de strings no terminal
 """
 
 vermelho = '\033[31m'
@@ -26,5 +25,3 @@ fundoAzul = '\033[44m'
 fundoMagenta = '\033[45m'
 fundoCiano = '\033[46m'
 fundoBranco = '\033[47m'
-
-txt =

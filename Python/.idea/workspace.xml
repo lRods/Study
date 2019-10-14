@@ -2,27 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="047b3ccd-9a68-4cb4-b198-2f6ffb05ccd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Jogo_do_NIM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10/ex01-Baskara.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10/ex02 - Maximo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10/ex03 - Vogais.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10/ex04 - MaximoCom3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10/ex05 - NumerosPrimos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10/ex06 - MaiorPrimo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Lista_17-09/E01 - Baskara.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Lista_17-09/E02 - Triplo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Lista_17-09/E03 - Numeros Positivos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Lista_17-09/E04 - Pessoas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Lista_17-09/E07 - Tabuada.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Faculdade/Testes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Jogo NIM/Jogo_do_NIM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Faculdade/Exercicios/Jogo NIM/cores.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Faculdade/Exercicios/E01 - Baskara.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Faculdade/Exercicios/E02 - Triplo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Faculdade/Exercicios/E03 - Numeros Positivos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Faculdade/Exercicios/E04 - Pessoas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Faculdade/Exercicios/E07 - Tabuada.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Faculdade/Prova/EX00.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Faculdade/Exercicios/Jogo_do_NIM.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,8 +54,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex06 - MaiorPrimo">
-    <configuration name="ex02 - Maximo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Jogo_do_NIN">
+    <configuration name="Jogo_do_NIM" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Faculdade/Exercicios/Jogo NIM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10/ex02 - Maximo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Faculdade/Exercicios/Jogo NIM/Jogo_do_NIM_color.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex03 - Vogais" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Jogo_do_NIN" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Faculdade/Exercicios/Jogo NIM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Faculdade/Exercicios/Lista_08-10/ex03 - Vogais.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Faculdade/Exercicios/Jogo NIM/Jogo_do_NIM.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Jogo_do_NIN" />
+        <item itemvalue="Python.Jogo_do_NIM" />
         <item itemvalue="Python.ex06 - MaiorPrimo" />
         <item itemvalue="Python.ex05 - NumerosPrimos" />
         <item itemvalue="Python.ex04 - MaximoCom3" />
-        <item itemvalue="Python.ex03 - Vogais" />
-        <item itemvalue="Python.ex02 - Maximo" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +188,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
