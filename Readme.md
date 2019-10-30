@@ -1,3 +1,3 @@
 # Study Files
 
-Project remote files
+Remote files
